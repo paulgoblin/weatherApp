@@ -1,0 +1,55 @@
+.sample {
+  display:none;
+}
+
+.currentWeather {
+  margin: 0 auto;
+  padding:2em;
+}
+
+.head{
+  padding: 10px 0px;
+}
+
+.head .loc{
+  font-size: 20px;
+}
+
+.head .time {
+  font-size: 14px;
+}
+
+.icon {
+  display: inline-block;
+  width: 50px;
+  text-align: center
+}
+
+.icon img {
+  display: inline-block;
+  text-align: center;
+}
+
+.icon div {
+  display: inline-block;
+  text-align: center;
+
+}
+
+
+
+.temp {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0px 17px;
+}
+
+#temp {
+  font-size: 36px;
+  font-style: bold;
+}
+
+#degreef {
+  font-size: 14px;
+  vertical-align: top;
+}
